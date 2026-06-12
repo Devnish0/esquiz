@@ -1,6 +1,6 @@
-# 🌿 Environmental Science Quiz
+# 🌿 indian knowledge system Quiz
 
-An interactive MCQ quiz application built for **Environmental Science** students — featuring 148 carefully curated questions with instant feedback, detailed score reports, and a stunning dark-green glassmorphism UI.
+An interactive MCQ quiz application built for **indian knowledge system** students — featuring 148 carefully curated questions with instant feedback, detailed score reports, and a stunning dark-green glassmorphism UI.
 
 🔗 **Live Demo:** [Click Here](https://ashudhanda.github.io/es-quiz/)
 
@@ -8,29 +8,29 @@ An interactive MCQ quiz application built for **Environmental Science** students
 
 ## ✨ Features
 
-| Feature | Description |
-|---|---|
-| 📝 **148 MCQ Questions** | Covering all major Environmental Science topics |
-| 🔢 **Flexible Question Count** | Choose 10, 20, 30, 50, 100, or all 148 questions |
-| 🔀 **Shuffle Mode** | Randomize question order or follow PDF sequence |
-| 📖 **Two Quiz Modes** | One-by-One (with navigation) or Scroll (all at once) |
-| ⏱️ **Timer Mode** | Optional 30s / 60s / 90s per question countdown |
-| ✅ **Instant Feedback** | See correct/wrong answers with green/red highlights |
-| 📊 **Detailed Report** | Full question-by-question breakdown after submission |
-| 🎯 **Auto-Check** | Answers auto-submit when navigating to next question |
-| 🎨 **Dark Green Theme** | Premium glassmorphism UI with smooth animations |
-| 🔤 **Font Options** | Switch between 4 font styles + bold toggle |
-| 🔊 **Sound Effects** | Click, correct, wrong, timer & celebration sounds |
-| 🎉 **Confetti Animation** | Celebratory confetti burst on high scores |
-| ⌨️ **Keyboard Support** | Arrow keys + number keys for quick navigation |
-| 📱 **Responsive** | Works on desktop, tablet & mobile |
+| Feature                        | Description                                          |
+| ------------------------------ | ---------------------------------------------------- |
+| 📝 **148 MCQ Questions**       | Covering all major indian knowledge system topics    |
+| 🔢 **Flexible Question Count** | Choose 10, 20, 30, 50, 100, or all 148 questions     |
+| 🔀 **Shuffle Mode**            | Randomize question order or follow PDF sequence      |
+| 📖 **Two Quiz Modes**          | One-by-One (with navigation) or Scroll (all at once) |
+| ⏱️ **Timer Mode**              | Optional 30s / 60s / 90s per question countdown      |
+| ✅ **Instant Feedback**        | See correct/wrong answers with green/red highlights  |
+| 📊 **Detailed Report**         | Full question-by-question breakdown after submission |
+| 🎯 **Auto-Check**              | Answers auto-submit when navigating to next question |
+| 🎨 **Dark Green Theme**        | Premium glassmorphism UI with smooth animations      |
+| 🔤 **Font Options**            | Switch between 4 font styles + bold toggle           |
+| 🔊 **Sound Effects**           | Click, correct, wrong, timer & celebration sounds    |
+| 🎉 **Confetti Animation**      | Celebratory confetti burst on high scores            |
+| ⌨️ **Keyboard Support**        | Arrow keys + number keys for quick navigation        |
+| 📱 **Responsive**              | Works on desktop, tablet & mobile                    |
 
 ---
 
 ## 🖼️ Screenshots
 
-| Landing Page | Quiz Screen | Results |
-|---|---|---|
+| Landing Page                            | Quiz Screen                            | Results                      |
+| --------------------------------------- | -------------------------------------- | ---------------------------- |
 | Dark green gradient with animated title | Question card with option highlighting | Score ring + detailed report |
 
 ---

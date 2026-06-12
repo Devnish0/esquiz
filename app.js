@@ -1,5 +1,5 @@
 /* ============================================
-   ENVIRONMENTAL SCIENCE QUIZ — App Logic
+   indian knowledge system QUIZ — App Logic
    ============================================ */
 
 (function () {
